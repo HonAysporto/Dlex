@@ -1,9 +1,10 @@
 import React from 'react'
 import "./Overview.css"
-import DashboardNav from '../components/dashboardNav'
+import DashboardNav from '../components/DashboardNav'
 import { AssessmentTab } from '../components/AssessmentTab'
 import GroupInfo from '../components/GroupInfo'
 import Grammer from '../components/Grammer'
+
 
 
 const Overview = () => {
