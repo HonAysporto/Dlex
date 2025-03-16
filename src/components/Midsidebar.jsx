@@ -101,7 +101,7 @@ const Midsidebar = () => {
 
            
 
-            <div className="storage rounded-1 p-3">
+            <div className="storag storage rounded-1 p-3">
       <div className="d-flex head justify-content-between">
         <h5>Storage</h5>
         <span>Upgrade</span>

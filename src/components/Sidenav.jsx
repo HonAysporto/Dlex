@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./sidenac.css";
+import "./Sidenac.css";
 import { Link } from "react-router-dom";
 
 const Sidenav = () => {
