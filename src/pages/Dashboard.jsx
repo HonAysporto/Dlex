@@ -1,9 +1,7 @@
 import React from 'react'
-import DashboardNav from '../components/dashboardNav'
-import { AssessmentTab } from '../components/AssessmentTab'
+
 import "./Dashboard.css"
-import GroupInfo from '../components/GroupInfo'
-import Grammer from '../components/Grammer'
+
 import Sidenav from '../components/Sidenav'
 import Rightcolumn from '../components/Rightcolumn'
 import Overview from './Overview'
