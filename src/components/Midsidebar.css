@@ -1,0 +1,148 @@
+.sidebarr {
+    background-color: #3c38ce;
+    height: 100vh;  /* Full viewport height */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Keeps bottom content at the bottom */
+    overflow-y: auto;  /* Enables scrolling if content overflows */
+}
+
+
+.logo-div {
+    border-bottom: 1px solid rgb(189, 191, 194);
+    padding-bottom: 12px;
+}
+
+.team-tag {
+    background-color: #4a4de6;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 11px;
+}
+
+.team-tag h5{
+    font-size: 9px;
+    background-color: #ECD348;
+
+
+}
+
+.team {
+    margin-right: 32px;
+}
+
+.team h4 {
+    font-size: 11px;
+    color: white;
+    margin: 0px;
+}
+
+.team span {
+    font-size: 9px;
+    color: rgb(199, 199, 199);
+}
+
+
+
+.link h5 {
+    font-size: 11px;
+    color: #c4c3f0;
+    margin-left: 10px;
+    margin: 0px;
+
+}
+
+.link img {
+   width: 19px;
+
+}
+
+/* Shortcut */
+
+.short {
+    color: #8e8ce3;
+    font-size: 9px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.storage {
+    background-color: #342bc2;
+    margin-top: 200px;
+    
+}
+
+.storage .head span {
+    color: #caccf7;
+    font-size: 9px;
+    cursor: pointer;
+}
+
+.storage .head h5 {
+    color: #ffffff;
+    font-size: 11px;
+}
+
+.storage h6 {
+    font-size: 9px;
+    color: white;
+}
+
+.storage h6 span {
+    color: #8984dc;
+}
+
+/* Progress Bar */
+.progress {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+}
+
+.progress-bar {
+    border-radius: 10px;
+}
+
+.bottom-tag {
+    padding-top: 20px;
+    border-top: 1px solid #5e5bd3;
+    margin-top: 20px;
+}
+
+.bottom-tag h1{
+    font-size: 12px;
+    color: white;
+    margin-right: 40px;
+}
+
+.bottom-tag .imgg{
+    width: 32px;
+    margin-right: 10px;
+}
+
+.bottom-tag img{
+    width: 19px;
+    
+}
+
+
+/* Dropdown Content */
+.dropdown-content {
+    background: #3c3fea;
+    color: white;
+    padding: 10px;
+    margin-top: -5px;
+    font-size: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .dropdown-content p {
+    margin: 5px 0;
+    cursor: pointer;
+  }
+  
+  .dropdown-content p:hover {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 3px;
+    border-radius: 5px;
+  }
+

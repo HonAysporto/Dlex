@@ -1,0 +1,25 @@
+.nav-btn {
+    width: 30px;
+}
+.nav-img {
+    width: 50px;
+}
+
+.offcanvas {
+    width: 200px !important; /* Adjust to your preference */
+  }
+
+  .offcanvas-body {
+    padding: 0 !important; /* Remove default padding */
+  }
+
+  .offcanvas.offcanvas-start {
+    height: 100vh !important;  /* Forces full height */
+    max-height: 100vh;
+}
+.offcanvas-body {
+    padding: 0; /* Removes extra padding */
+    height: 100%; /* Ensures it fills the offcanvas */
+}
+
+  

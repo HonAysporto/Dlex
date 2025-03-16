@@ -1,0 +1,28 @@
+.img-div {
+   padding: 10px 10px;
+}
+
+.gramm {
+    width: 357px;
+    cursor: pointer;
+}
+
+.arrow-btn {
+    width: 25px;
+}
+
+.gram {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 10px;
+}
+
+.gram h6{
+   font-size: 13px; 
+}
+
+.gram span{
+    font-size: 9px;
+    color: gray;
+}

@@ -1,0 +1,96 @@
+p {
+    margin: 0px;
+    padding: 0px;
+}
+
+.notif-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0px;
+}
+.notif-div span{
+    font-size: 15px;
+    line-height: 120%;
+}
+
+.no-student{
+    color: #bcbcbc;
+    font-size: 13px;
+}
+
+.alert {
+    background-color: #ff9365;
+}
+
+.alert h5{
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.alert h3{
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.alert p{
+    color: #ffffff;
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+
+.click p{
+    color: #ffDFD1;
+    font-size: 13px;
+    max-width: 170px;
+}
+
+
+
+
+.group-info h3{
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+
+.group-info span{
+    font-size: 13px;
+   
+}
+
+.group-info {
+    border: 1px solid rgb(225, 225, 225);
+    border-bottom: none;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 357px;
+}
+
+
+/* Germany */
+
+
+
+.germany h3{
+    font-size: 22px;
+    max-width: 150px;
+}
+
+.germany img{
+    width: 22px;
+    height: 22px;
+}
+
+.btn-div {
+    border: 1px solid rgb(225, 225, 225);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    width: 357px;
+    margin-top: -16px;
+}
+
+.btn-div span{
+    color: #4c66bb;
+}
+
+

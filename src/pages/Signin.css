@@ -1,0 +1,88 @@
+.login-container {
+    background: linear-gradient(135deg, #153677, #4169e1);
+    width: 100vw;
+  }
+  
+  .card {
+    width: 100%;
+    max-width: 380px;
+    background: white;
+    border-radius: 12px;
+  }
+  
+  hr {
+    border: none;
+    height: 1px;
+    background-color: #ddd;
+  }
+  
+  .form-control {
+    border-radius: 8px;
+  }
+  
+  .btn-primary {
+    border-radius: 8px;
+    font-weight: bold;
+  }
+
+  .login-container h3{
+    font-size: 18px;
+    letter-spacing: -0.38px;
+    line-height: 120%;
+  }
+
+  .login-container p{
+    font-size: 10px;
+    letter-spacing: -0.38px;
+    line-height: 140%;
+    text-decoration: none;
+  }
+
+  .login-container p a{
+   font-weight: bold;
+    text-decoration: none;
+  }
+
+  .google-btn span {
+    font-size: 12px;
+  }
+
+  .or {
+    font-size: 10px;
+  }
+
+  .form-label {
+    font-size: 10px;
+  }
+
+  .rem-div a{
+    font-size: 10px;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    color: #3855b3;
+  }
+
+  .form-check-label {
+    font-size: 10px;
+    margin-top: 3px;
+  }
+
+  .btnn {
+    background-color: #3855b3;
+    border: none;
+    border-radius: 5px;
+  }
+
+  .btnn:hover {
+    background-color: #6784e2;
+    transition: .2s ease-in-out;
+   
+  }
+  
+  @media (max-width: 576px) {
+    .card {
+      padding: 1rem;
+    }
+  }
+  

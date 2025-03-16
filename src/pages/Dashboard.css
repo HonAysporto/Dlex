@@ -1,0 +1,30 @@
+.main {
+    min-height: 100vh; 
+    overflow-y: auto;
+}
+
+.prog {
+    font-size: 22px;
+    line-height: 120%;
+    letter-spacing: -0.48px;
+}
+
+.ass{
+    margin-bottom: -10px;
+}
+
+.grupinfo {
+    margin-bottom: -10px;
+}
+
+@media (min-width: 992px) { 
+    .main {
+        height: 100vh;
+    }
+}
+
+@media (max-width: 991px) {
+    .main {
+        height: auto;
+    }
+}
